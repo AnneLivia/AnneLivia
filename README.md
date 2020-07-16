@@ -23,7 +23,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-⭐️✨ From [Anne Livia](github.com/annelivia) ⭐️✨
+⭐️✨ From [Anne Livia](https://github.com/annelivia) ⭐️✨
 <!--
 **AnneLivia/AnneLivia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
