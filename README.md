@@ -3,7 +3,7 @@
 <p align="center"><img width=50% src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif"></p>
 <h6  align="center">Animation by <a href="https://dribbble.com/daniserpa" target="_blank">Daniela Serpa</a></h6>
 
-<h3 align="center">I'm currently studying Information Systems at UFPA 🎓. I'm a volunteer developer in the startup <a href="http://linkjrcastanhal.ufpa.br" target="_blank">LinkJR</a>. I'm a member of research projects that involves the areas of 5G, Artificial Intelligence, Electromagnetic Propagation and Digital Image Processing 📚📈🔬, and I'm also a competitive programming enthusiastic 🤩 🎈. </h3>
+<h3 align="center">I'm currently studying Information Systems at UFPA 🎓. I'm a volunteer developer in the startup <a href="http://linkjrcastanhal.ufpa.br" target="_blank">LinkJR</a>. I'm a research fellow at UFPA working on projects that involves the areas of 5G, Artificial Intelligence, Electromagnetic Propagation and Digital Image Processing 📚📈🔬, and I'm also a competitive programming enthusiastic 🤩 🎈. </h3>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Other Accounts
