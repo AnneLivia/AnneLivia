@@ -14,16 +14,16 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![github stats](https://github-readme-stats.vercel.app/api?username=AnneLivia&show_icons=true&title_color=ff4b8a&icon_color=ff4b8a)
+![github stats](https://github-readme-stats.vercel.app/api?username=AnneLivia&show_icons=true&&hide_border=true&title_color=ff4b8a&icon_color=ff4b8a)
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![HitCount](http://hits.dwyl.com/annelivia/annelivia.svg)](http://hits.dwyl.com/AnneLivia/AnneLivia) </br>
+[![HitCount](http://hits.dwyl.com/AnneLivia/AnneLivia/AnneLivia.svg)](http://hits.dwyl.com/AnneLivia/AnneLivia/AnneLivia)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-⭐️✨ 𝙵𝚛𝚘𝚖 [𝙰𝚗𝚗𝚎 𝙻𝚒𝚟𝚒𝚊](https://github.com/annelivia) ⭐️✨
+⭐️✨ 𝙵𝚛𝚘𝚖 [𝙰𝚗𝚗𝚎 𝙻𝚒𝚟𝚒𝚊](https://github.com/annelivia) ✨⭐️
 <!--
 **AnneLivia/AnneLivia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
