@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋, I'm Anne Livia 😉 <br/></h1> 
+<h1 align="center"> Hi there 👋, I'm Anne Livia 😉 <br/> <br/> </h1> 
 
 <p align="center"><img width=50% src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif"></p>
 <h6 align="center">Animation by <a href="https://dribbble.com/daniserpa" target="_blank">Daniela Serpa</a></h6>
