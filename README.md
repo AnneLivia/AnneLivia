@@ -7,16 +7,20 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 📫 Other Accounts
+<h3 align="center"> 📫 Other Accounts </h3>
 <br /> 
-
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://instagram.com/anneliviia)
-[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>](https://www.facebook.com/annelivia)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/annelivia/")
+<p align="center">
+<a href="https://instagram.com/anneliviia"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/annelivia"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/annelivia/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![github stats](https://github-readme-stats.vercel.app/api?username=AnneLivia&show_icons=true&&hide_border=true&title_color=ff4b8a&icon_color=ff4b8a)
-
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=AnneLivia&show_icons=true&&hide_border=true&title_color=ff4b8a&icon_color=ff4b8a">
+    <img src="https://github-readme-stats.vercel.app/api?username=AnneLivia&show_icons=true&&hide_border=true&title_color=ff4b8a&icon_color=ff4b8a" />
+  </a>
+</p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
