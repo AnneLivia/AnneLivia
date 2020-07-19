@@ -10,11 +10,11 @@
 <h3 align="center"> Other Accounts 📫 </h3>
 <br />
 <p align="center">
-  <a href="https://instagram.com/anneliviia">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
   <a href="https://www.linkedin.com/in/annelivia/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/anneliviia">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/annelivia">
     <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>
