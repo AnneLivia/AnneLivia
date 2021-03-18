@@ -31,7 +31,7 @@
 <br / >
 <p align="center">
   <a href="https://github.com/AnneLivia/AnneLivia">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annelivia&layout=compact&card_width=800&title_color=000&border_radius=20&custom_title=Most used programming languages&show_icons=true&langs_count=20" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annelivia&layout=compact&card_width=800&title_color=000&border_radius=20&bg_color=00000000&custom_title=Most used programming languages&show_icons=true&langs_count=20" />
   </a>
 </p>
 
