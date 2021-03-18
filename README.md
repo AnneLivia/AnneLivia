@@ -26,7 +26,7 @@
 <br / >
 <p align="center">
   <a href="https://github.com/AnneLivia/AnneLivia">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=annelivia&theme=nord&column=8&margin-w=15" />
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=annelivia&theme=flat&no-bg=true&no-frame=true&row=1&&margin-w=15" />
   </a>
 </p>
 
