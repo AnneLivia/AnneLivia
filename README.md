@@ -17,10 +17,10 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3 align="center"> My Github Statistics 📊📈 </h3>
-<br / >
+
 <p align="center">
   <a href="https://github.com/AnneLivia/AnneLivia">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annelivia&layout=compact&show_icons=true&langs_count=20" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annelivia&hide_border=true&layout=compact&show_icons=true&langs_count=20" />
   </a>
 </p>
 <br / >
