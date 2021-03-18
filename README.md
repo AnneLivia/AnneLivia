@@ -20,13 +20,13 @@
 <br / >
 <p align="center">
   <a href="https://github.com/AnneLivia/AnneLivia">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annelivia&layout=compact&show_icons=true&langs_count=20" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annelivia&hide_border=true&layout=compact&show_icons=true&langs_count=20" />
   </a>
 </p>
 <br / >
 <p align="center">
   <a href="https://github.com/AnneLivia/AnneLivia">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=annelivia&theme=flat&no-bg=true&no-frame=true&row=1&&margin-w=15" />
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=annelivia&theme=flat&no-bg=true&no-frame=true&row=1&&margin-w=20" />
   </a>
 </p>
 
