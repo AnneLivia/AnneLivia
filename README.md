@@ -7,7 +7,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h3 align="center"> Other Accounts <img src="https://media2.giphy.com/media/Y0tZlRRw6lbxTjiXJG/source.gif" width="40px">  </h3>
+<h3 align="center"> Other Accounts <img src="https://www.pinclipart.com/picdir/big/143-1432236_contacts-us-mail-mail-gif-us-mail-gifs.png" width="30px">  </h3>
 <br />
 <p align="center">
 <a href="https://www.linkedin.com/in/annelivia/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" margin=20/></a>
