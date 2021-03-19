@@ -7,7 +7,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h3 align="center"> Other Accounts <img src="https://www.pinclipart.com/picdir/big/143-1432236_contacts-us-mail-mail-gif-us-mail-gifs.png" width="30px">  </h3>
+<h3 align="center"> Other Accounts &nbsp <img src="https://www.pinclipart.com/picdir/big/143-1432236_contacts-us-mail-mail-gif-us-mail-gifs.png" width="30px">  </h3>
 <br />
 <p align="center">
 <a href="https://www.linkedin.com/in/annelivia/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" margin=20/></a>
@@ -21,7 +21,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h3 align="center"> Technologies & Languages I've been working and learning <img src="https://media0.giphy.com/media/KBD985uLvhLGiQN5uj/giphy.gif" width="40px"> </h3>
+<h3 align="center"> Technologies & Languages I've been working and learning  <img src="https://media0.giphy.com/media/KBD985uLvhLGiQN5uj/giphy.gif" width="40px"> </h3>
 <br />
 <p align="center">
 <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
@@ -43,7 +43,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h3 align="center"> My Github Statistics <img src="https://media3.giphy.com/media/VEzBzSyEOKtXGuPIQw/giphy.gif" width="40px"> </h3>
+<h3 align="center"> My Github Statistics  <img src="https://media3.giphy.com/media/VEzBzSyEOKtXGuPIQw/giphy.gif" width="40px"> </h3>
 <br / >
 <p align="center">
   <a href="https://github.com/AnneLivia/AnneLivia">
