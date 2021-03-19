@@ -21,7 +21,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h3 align="center"> Technologies & Languages I've been working and learning <img src="https://media3.giphy.com/media/2Yj2vRSHrhZIUyVPGl/source.gif" width="40px"> </h3>
+<h3 align="center"> Technologies & Languages I've been working and learning <img src="https://media0.giphy.com/media/KBD985uLvhLGiQN5uj/giphy.gif" width="40px"> </h3>
 <br />
 <p align="center">
 <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
