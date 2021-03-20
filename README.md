@@ -7,7 +7,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h3 align="center"> Other Accounts &nbsp <img src="mail.gif" width="40px">  </h3>
+<h3 align="center"> Other Accounts <img src="mail.gif" width="40px">  </h3>
 <br />
 <p align="center">
 <a href="https://www.linkedin.com/in/annelivia/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" margin=20/></a>
