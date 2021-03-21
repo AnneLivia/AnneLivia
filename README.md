@@ -3,7 +3,7 @@
 <p align="center"><img width=50% src="hello.gif"></p>
 <h6 align="center">Animation by <a href="https://dribbble.com/daniserpa" target="_blank">Daniela Serpa</a></h6>
 
-<p align="center"> <samp>I'm an undergraduate student in Information Systems at Federal University of Pará (UFPA) 🎓. I'm a volunteer developer in the technology startup Link Jr. I'm a research fellow at UFPA working on projects that involve the areas of 5G, Artificial Intelligence and Digital Image Processing 📚📈🔬, and I'm also a competitive programming enthusiastic 🤩 🎈 </samp> </p>
+<p align="center"> <samp>I'm an undergraduate student in Information Systems at Federal University of Pará (UFPA) 🎓. I'm a volunteer developer in the technology startup Link Jr. I'm a research fellow at UFPA working on projects that involve the areas of 5G, Artificial Intelligence and Digital Image Processing 📚📈🔬, and I'm also a competitive programming enthusiastic 🤩 🎈. For more information about my academic, research and scientific work check out my <a href="http://lattes.cnpq.br/5256079850110711" target="_blank"> Curriculum Lattes </a> 📄 </samp> </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
