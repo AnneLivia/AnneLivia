@@ -52,12 +52,12 @@
   <a href="https://github.com/AnneLivia/AnneLivia">
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=annelivia&theme=flat&no-frame=true&row=1&&margin-w=20" />
   </a>
- <br / >
+ <br / > <br />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=annelivia&hide_border=true" /> 
- <br / >
+ <br / > <br />
 </p>
 
 <p align="center">
