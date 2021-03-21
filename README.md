@@ -43,8 +43,6 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-<img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -55,15 +53,17 @@
   <a href="https://github.com/AnneLivia/AnneLivia">
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=annelivia&theme=flat&no-frame=true&row=1&&margin-w=20" />
   </a>
+ <br / >
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=annelivia&hide_border=true&theme=buefy" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=annelivia&hide_border=true" /> 
+ <br / >
 </p>
 
 <p align="center">
   <a href="https://github.com/AnneLivia/AnneLivia">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annelivia&layout=compact&card_width=800&title_color=000&border_radius=20&custom_title=Most used programming languages&show_icons=true&langs_count=20" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annelivia&layout=compact&card_width=800&title_color=000&border_radius=20&custom_title=Most used programming languages on this repository&show_icons=true&langs_count=20" />
   </a>
 </p>
 
