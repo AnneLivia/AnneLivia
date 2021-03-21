@@ -50,7 +50,7 @@
 <br / >
 <p align="center">
   <a href="https://github.com/AnneLivia/AnneLivia">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=annelivia&theme=flat&no-frame=true&row=1&&margin-w=20" />
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=annelivia&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true" />
   </a>
  <br / > <br />
 </p>
