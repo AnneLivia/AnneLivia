@@ -7,7 +7,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h3 align="center"> Other Accounts <img src="https://mailxstream.com/wp-content/themes/mailxstream/images/mail_delivery.gif" width="50px">  </h3>
+<code> <h3 align="center"> Other Accounts <img src="mailbox.gif" width="45px">  </h3><code> 
 <br />
 <p align="center">
 <a href="https://www.linkedin.com/in/annelivia/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" margin=20/></a>
