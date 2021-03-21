@@ -39,8 +39,6 @@
 <img alt="Scikit Learn" src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit%2DLearn&logoColor=white" />
 <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" />
 <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white" />
-<img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833.svg?&style=for-the-badge&logo=Anaconda&logoColor=white"/>
-<img alt="Pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
 <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white" />
 <img alt="Octave" src="https://img.shields.io/badge/Octave-0790C0?style=for-the-badge&logo=Octave&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
