@@ -55,14 +55,21 @@
  <br / > <br />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=annelivia&hide_border=true" /> 
- <br / > <br />
-</p>
-
-<p align="center">
-  <a href="https://github.com/AnneLivia/AnneLivia">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annelivia&layout=compact&card_width=800&title_color=000&border_radius=20&custom_title=Most used programming languages&show_icons=true&langs_count=20" />
-  </a>
-</p>
-
+<table>
+  <tr align="center">
+    <th align="center">Most used programming languages</th>
+    <th align="center">My github streaks</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="200" height="1" alt="">
+      <img alt="" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annelivia&layout=compact&card_width=418&hide_title=true&show_icons=true&langs_count=20">
+      <img width="200" height="1" alt="">
+    </td>
+    <td align="center">
+      <img width="200" height="1" alt="">
+      <img alt="" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=annelivia&hide_border=true">
+      <img width="200" height="1" alt="">
+    </td>
+  </tr>
+</table>
