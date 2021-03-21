@@ -58,7 +58,7 @@
 <table>
   <tr align="center">
     <th align="center">Most used programming languages</th>
-    <th align="center">My github streaks</th>
+    <th align="center">My Streak Stats</th>
   </tr>
   <tr>
     <td align="center">
