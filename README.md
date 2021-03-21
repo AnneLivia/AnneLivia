@@ -1,6 +1,6 @@
 <h2 align="center"> Hi there, I'm Anne Livia 😉👋 <br/></h2> 
  
-<p align="center"><img width=50% src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif"></p>
+<p align="center"><img width=50% src="hello.gif"></p>
 <h6 align="center">Animation by <a href="https://dribbble.com/daniserpa" target="_blank">Daniela Serpa</a></h6>
 
 <p align="center"> <samp>I'm an undergraduate student in Information Systems at Federal University of Pará (UFPA) 🎓. I'm a volunteer developer in the technology startup Link Jr. I'm a research fellow at UFPA working on projects that involve the areas of 5G, Artificial Intelligence and Digital Image Processing 📚📈🔬, and I'm also a competitive programming enthusiastic 🤩 🎈 </samp> </p>
@@ -21,7 +21,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h3 align="center"> Technologies & Languages I've been working and learning  <img src="https://media0.giphy.com/media/KBD985uLvhLGiQN5uj/giphy.gif" width="40px"> </h3>
+<h3 align="center"> Technologies & Programming Languages I've been working and learning  <img src="tech.gif" width="40px"> </h3>
 <br />
 <p align="center">
 <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
@@ -37,24 +37,37 @@
 <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
 <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 <img alt="Scikit Learn" src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit%2DLearn&logoColor=white" />
+<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" />
 <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white" />
+<img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833.svg?&style=for-the-badge&logo=Anaconda&logoColor=white"/>
 <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white" />
+<img alt="Octave" src="https://img.shields.io/badge/Octave-0790C0?style=for-the-badge&logo=Octave&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+<img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img alt="jQuery" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h3 align="center"> My Github Statistics  <img src="https://media3.giphy.com/media/VEzBzSyEOKtXGuPIQw/giphy.gif" width="40px"> </h3>
+<h3 align="center"> My Github Statistics  <img src="stats.gif" width="40px"> </h3>
 <br / >
 <p align="center">
   <a href="https://github.com/AnneLivia/AnneLivia">
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=annelivia&theme=flat&no-frame=true&row=1&&margin-w=20" />
   </a>
 </p>
-<br / >
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=annelivia&hide_border=true" /> 
+</p>
+
 <p align="center">
   <a href="https://github.com/AnneLivia/AnneLivia">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annelivia&layout=compact&card_width=800&title_color=000&border_radius=20&custom_title=Most used programming languages&show_icons=true&langs_count=20" />
   </a>
 </p>
-
 
