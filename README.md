@@ -20,7 +20,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h3 align="center"> Technologies & Programming Languages I've been working on and learning  <img src="tech.gif" width="40px"> </h3>
+<h3 align="center"> Technologies & Programming Languages I've been learning and working on  <img src="tech.gif" width="40px"> </h3>
 <br />
 <p align="center">
 <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
