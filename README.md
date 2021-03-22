@@ -3,7 +3,7 @@
 <p align="center"><a href="#"><img width=50% src="hello.gif"></a></p>
 <h6 align="center">Animation by <a href="https://dribbble.com/daniserpa" target="_blank">Daniela Serpa</a></h6>
 
-<p align="center"> <samp>I'm an undergraduate student in Information Systems at Federal University of Pará (UFPA) 🎓. I'm a volunteer developer in the technology startup Link Jr. I'm a research fellow at UFPA working on projects that involve the areas of 5G, Artificial Intelligence and Digital Image Processing 📚📈🔬, and I'm also a competitive programming enthusiastic 🤩 🎈. For more information about my academic, research and scientific work check out my <a href="http://lattes.cnpq.br/5256079850110711" target="_blank">Curriculum Lattes</a> </samp> <a href="#"><img src="http://www.mathiasmpires.net.br/images/lattes.png" alt="curriculum logo" width="15px"/></a> </p> 
+<p align="center"> <samp>I'm an undergraduate student in Information Systems at Federal University of Pará (UFPA) 🎓. I'm a volunteer developer in the technology startup Link Jr. I'm a research fellow at UFPA working on projects that involve the areas of 5G, Artificial Intelligence and Digital Image Processing 📚📈🔬, and I'm also a competitive programming enthusiastic 🤩 🎈. For more information about my academic, research and scientific work check out my <a href="http://lattes.cnpq.br/5256079850110711" target="_blank">Curriculum Lattes</a> </samp> <a href="#"><img src="http://www.mathiasmpires.net.br/images/lattes.png" alt="curriculum logo" width="13px"/></a> </p> 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -14,6 +14,7 @@
 <a href="https://instagram.com/anneliviia"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="mailto:annelivia16@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://gitlab.com/AnneLivia"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
+<a href="https://www.researchgate.net/profile/Anne-Livia-Da-F-Macedo"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white"/></a>
 <a href="https://codepen.io/anneliviia"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
 <a href="https://codeforces.com/profile/annelivia"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
 </p>
