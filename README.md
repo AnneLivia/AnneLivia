@@ -50,14 +50,6 @@
 
 <h3 align="center"> My Github Statistics <a href="#"> <img src="stats.gif" width="40px"> </a> </h3>
 <br / >
-<table>
-  <tr align="center">
-    <th align="center">Most used programming languages</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img width="200" height="1" alt="">
-      <a href="#"> <img alt="" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annelivia&layout=compact&card_width=418&hide_title=true&show_icons=true&langs_count=20"> </a>
-      <img width="200" height="1" alt="">
-   </td>
-</table>
+<p align="center">
+<a href="#" > <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annelivia&layout=compact&card_width=418&hide_title=true&show_icons=true&langs_count=20"> </a>
+</p>
