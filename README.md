@@ -50,6 +50,7 @@
 
 <h3 align="center"> My Github Statistics <a href="#"> <img src="stats.gif" width="40px"> </a> </h3>
 <br / >
-<p align="center">
-<a href="#" > <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annelivia&layout=compact&card_width=418&hide_title=true&show_icons=true&langs_count=20"> </a>
+
+<p align= center>
+<a href="#"> <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annelivia&layout=compact&theme=jolly &card_width=900&hide_title=true&show_icons=true&langs_count=20"> </a>
 </p>
