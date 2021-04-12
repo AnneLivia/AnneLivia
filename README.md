@@ -7,7 +7,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h3 align="center"> Other Accounts <a href="#"><img src="mailbox.gif" width="45px"></a> </h3>
+<h3 align="center"> Other Accounts <a href="#"> 📬 </h3>
 <br />
 <p align="center">
 <a href="https://www.linkedin.com/in/annelivia/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" margin=20/></a>
@@ -21,7 +21,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h3 align="center"> Technologies & Programming Languages I've been learning and working on  <a href="#"><img src="tech.gif" width="40px"></a></h3>
+<h3 align="center"> Technologies & Programming Languages I've been learning and working on 💻 </h3>
 <br />
 <p align="center">
 <a href="#"><img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat&logo=c&logoColor=white"/></a>
