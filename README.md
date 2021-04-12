@@ -50,28 +50,14 @@
 
 <h3 align="center"> My Github Statistics <a href="#"> <img src="stats.gif" width="40px"> </a> </h3>
 <br / >
-<p align="center">
-  <a href="#">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=annelivia&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true" />
-  </a>
- <br / > <br />
-</p>
-
 <table>
   <tr align="center">
     <th align="center">Most used programming languages</th>
-    <th align="center">My Streak Stats</th>
   </tr>
   <tr>
     <td align="center">
       <img width="200" height="1" alt="">
       <a href="#"> <img alt="" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annelivia&layout=compact&card_width=418&hide_title=true&show_icons=true&langs_count=20"> </a>
       <img width="200" height="1" alt="">
-    </td>
-    <td align="center">
-      <img width="200" height="1" alt="">
-      <a href="#"><img alt="" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=annelivia&hide_border=true"></a>
-       <img width="200" height="1" alt="">
-    </td>
-  </tr>
+   </td>
 </table>
