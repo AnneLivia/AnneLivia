@@ -45,12 +45,3 @@
 <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat&logo=html5&logoColor=white"/></a>
 <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=flat&logo=css3&logoColor=white"/></a>
 </p>
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-<h3 align="center"> My Github Statistics <a href="#"> <img src="stats.gif" width="40px"> </a> </h3>
-<br / >
-
-<p align= center>
-<a href="#"> <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annelivia&layout=compact&card_width=800&hide_title=true&show_icons=true&langs_count=20"> </a>
-</p>
