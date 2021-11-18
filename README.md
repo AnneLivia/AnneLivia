@@ -18,7 +18,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h3 align="center"> Technologies & Programming Languages 💻
+<h3 align="center"> Technologies & Programming Languages I've been studying 💻
  </h3>
 <br />
 <p align="center">
