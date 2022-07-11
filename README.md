@@ -43,7 +43,8 @@
 <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat&logo=html5&logoColor=white"/></a>
 <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=flat&logo=css3&logoColor=white"/></a>
 <a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%339933.svg?&style=flat&logo=Node.js&logoColor=white"/></a>
- <a href="#"><img alt="Prisma" src="https://img.shields.io/badge/Prisma%20-%2D3748.svg?&style=flat&logo=Prisma&logoColor=white"/></a>
- <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-%47A248.svg?&style=flat&logo=MongoDB&logoColor=white"/></a>
- <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker%20-%2496ED.svg?&style=flat&logo=docker&logoColor=white&color=blue"/></a>
+<a href="#"><img alt="Prisma" src="https://img.shields.io/badge/Prisma%20-%2D3748.svg?&style=flat&logo=Prisma&logoColor=white"/></a>
+<a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-%47A248.svg?&style=flat&logo=MongoDB&logoColor=white"/></a>
+<a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker%20-%2496ED.svg?&style=flat&logo=docker&logoColor=white&color=blue"/></a>
+<a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%61DAFB.svg?&style=flat&logo=React&logoColor=white&color=blue"/></a>
 </p>
