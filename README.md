@@ -1,5 +1,3 @@
-<h2 align="center"> Hi, I'm Anne Livia 👋<br/></h2> 
- 
 <p align="center"><a href="#"><img width=50% src="hello.gif"></a></p>
 <h6 align="center">Animation by <a href="https://dribbble.com/daniserpa" target="_blank">Daniela Serpa</a></h6>
 
